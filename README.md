@@ -6,7 +6,7 @@
 The dataset in the paper is from the paper
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162092">Integrating Soft Set Theory and Fuzzy Linguistic Model to Evaluate the Performance of Training Simulation Systems</a>.
 
-The dataset in the paper can be shown in <a href="./Case1_Dataset.CSV">Case1_Dataset.CSV</a> and <a href="./Case2_Qwen2.5_VL_Expert_dataset.CSV">Case2_Qwen2.5_VL_Expert_dataset.CSV</a>. 
+The dataset in the paper can be shown in <a href="./Case1_Dataset.CSV">Case1_Dataset.CSV</a> and <a href="./Case2_Qwen2.5_VL_Expert_dataset.csv">Case2_Qwen2.5_VL_Expert_dataset.CSV</a>. 
 
 ### The whole results
 Due to the page limitation of the paper, the experimental results are shown here to prove the authenticity of the paper.<br>
